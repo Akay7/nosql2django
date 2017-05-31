@@ -3,16 +3,16 @@ from django.contrib import admin
 from .models import Post, User, Tag
 
 
-class TagInLine(admin.TabularInline):
-    model = Tag
-    extra = 0
+class UserAdmin(admin.ModelAdmin):
+    pass
+admin.site.register(User, UserAdmin)
 
 
-class UserInLine(admin.TabularInline):
-    model = User
-    extra = 0
+class TagAdmin(admin.ModelAdmin):
+    pass
+admin.site.register(Tag, TagAdmin)
 
 
 class PostAdmin(admin.ModelAdmin):
-    inlines = (UserInLine, TagInLine,)
+    pass
 admin.site.register(Post, PostAdmin)
