@@ -81,3 +81,25 @@ class TestParser(TestCase):
             Post.objects.values_list('tags__title', flat=True).distinct()
         )
         self.assertEqual(tags_in_post_qty, 129)
+
+    def test_correct_parse_reddit(self):
+        mapping = ObjectMapping(
+            None, 'tests.Post',
+            (
+                FieldMapping('title', 'title'),
+                FieldMapping('author',
+                    ObjectMapping(
+                        None, 'tests.User',
+                        (FieldMapping('nick_name', 'author'),)
+                    )
+                ),
+                FieldMapping('updated', 'updated')
+            )
+        )
+        source = os.path.join(TESTS_DIR, 'reddit_source.xml')
+        parser_mapper = ParserMapper(source, mapping)
+        parser_mapper.put_to_models()
+
+        self.assertEqual(Post.objects.count(), 25)
+        self.assertEqual(User.objects.count(), 21)
+        self.assertEqual(Tag.objects.count(), 0)

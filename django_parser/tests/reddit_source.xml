@@ -1,0 +1,312 @@
+<?xml version="1.0" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<category label="r/news" term="news"/>
+	<updated>2017-06-01T12:45:59+00:00</updated>
+	<icon>https://www.redditstatic.com/icon.png/</icon>
+	<id>/r/news/.rss</id>
+	<link href="https://www.reddit.com/r/news/.rss" rel="self" type="application/atom+xml"/>
+	<link href="https://www.reddit.com/r/news/" rel="alternate" type="text/html"/>
+	<logo>https://a.thumbs.redditmedia.com/BCPcjmQTYwA3TAWllW7AJPixfTMQlMxn-fbD2pgcHT4.png</logo>
+	<subtitle>/r/news is: real news articles, primarily but not exclusively, news relating to the United States. /r/news isn't: editorials, commercials, political minutiae, shouting, justin bieber updates, kitty pictures. For a subreddit for all news-related content (editorials, satire, etc.) visit /r/inthenews.</subtitle>
+	<title>All news, US and international.</title>
+	<entry>
+		<author>
+			<name>/u/snowsnothing</name>
+			<uri>https://www.reddit.com/user/snowsnothing</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/snowsnothing&quot;&gt; /u/snowsnothing &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;http://www.cnn.com/2017/05/31/us/air-force-isis-sentenced-to-prison/index.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6ejg8d/us_air_force_vet_gets_35_years_prison_for_trying/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6ejg8d</id>
+		<link href="https://www.reddit.com/r/news/comments/6ejg8d/us_air_force_vet_gets_35_years_prison_for_trying/"/>
+		<updated>2017-06-01T01:15:52+00:00</updated>
+		<title>US Air Force vet gets 35 years prison for trying to join ISIS</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/calyco81</name>
+			<uri>https://www.reddit.com/user/calyco81</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/calyco81&quot;&gt; /u/calyco81 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reuters.com/article/uber-results-idUSL1N1IX2EZ&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6ejfku/uber_posts_708_million_loss_finance_head_leaves/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6ejfku</id>
+		<link href="https://www.reddit.com/r/news/comments/6ejfku/uber_posts_708_million_loss_finance_head_leaves/"/>
+		<updated>2017-06-01T01:12:25+00:00</updated>
+		<title>Uber posts $708 million loss, finance head leaves</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/dtw83</name>
+			<uri>https://www.reddit.com/user/dtw83</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/dtw83&quot;&gt; /u/dtw83 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;http://www.detroitnews.com/story/news/local/detroit-city/2017/05/31/detroit-surplus/102332670/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6efu5w/detroit_has_63m_surplus_deficit_free_two_years_in/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6efu5w</id>
+		<link href="https://www.reddit.com/r/news/comments/6efu5w/detroit_has_63m_surplus_deficit_free_two_years_in/"/>
+		<updated>2017-05-31T15:51:19+00:00</updated>
+		<title>Detroit has $63M surplus, deficit free two years in a row</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Kylde</name>
+			<uri>https://www.reddit.com/user/Kylde</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Kylde&quot;&gt; /u/Kylde &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;http://www.independent.co.uk/news/world/americas/portland-train-attacks-muslim-group-raise-500000-stabbing-victims-a7765436.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6eflki/muslim_groups_raise_500000_for_the_victims_of_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6eflki</id>
+		<link href="https://www.reddit.com/r/news/comments/6eflki/muslim_groups_raise_500000_for_the_victims_of_the/"/>
+		<updated>2017-05-31T15:15:06+00:00</updated>
+		<title>Muslim groups raise $500,000 for the victims of the Portland attacks</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/grepnork</name>
+			<uri>https://www.reddit.com/user/grepnork</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/grepnork&quot;&gt; /u/grepnork &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;http://www.independent.co.uk/news/world/americas/richard-spencer-soundcloud-ban-alt-right-white-supremacist-altright-radio-a7765736.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6eg28n/white_supremacist_richard_spencer_banned_from/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6eg28n</id>
+		<link href="https://www.reddit.com/r/news/comments/6eg28n/white_supremacist_richard_spencer_banned_from/"/>
+		<updated>2017-05-31T16:24:29+00:00</updated>
+		<title>White supremacist Richard Spencer banned from SoundCloud</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/beamdriver</name>
+			<uri>https://www.reddit.com/user/beamdriver</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/beamdriver&quot;&gt; /u/beamdriver &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;http://www.abc.net.au/news/2017-06-01/fbi-arrests-19-accused-new-york-mobsters-linked-to-lucchese-fam/8577972&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6ejqcg/fbi_arrests_19_highranking_new_york_mobsters/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6ejqcg</id>
+		<link href="https://www.reddit.com/r/news/comments/6ejqcg/fbi_arrests_19_highranking_new_york_mobsters/"/>
+		<updated>2017-06-01T02:08:01+00:00</updated>
+		<title>FBI arrests 19 high-ranking New York mobsters including 'Paulie Roast Beef' and 'Joey Glasses'</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/cmae34lars</name>
+			<uri>https://www.reddit.com/user/cmae34lars</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/cmae34lars&quot;&gt; /u/cmae34lars &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;http://abcnews.go.com/Entertainment/wireStory/cnn-cut-ties-kathy-griffin-video-depicting-holding-47749186&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6egnaq/cnn_cuts_ties_with_kathy_griffin_over_graphic/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6egnaq</id>
+		<link href="https://www.reddit.com/r/news/comments/6egnaq/cnn_cuts_ties_with_kathy_griffin_over_graphic/"/>
+		<updated>2017-05-31T17:50:21+00:00</updated>
+		<title>CNN cuts ties with Kathy Griffin over graphic tweet</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/snowsnothing</name>
+			<uri>https://www.reddit.com/user/snowsnothing</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/snowsnothing&quot;&gt; /u/snowsnothing &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;http://www.reuters.com/article/us-mylan-epipen-idUSKBN18R2ZN?feedType=RSS&amp;amp;feedName=topNews&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6ehiw7/mylan_may_have_overcharged_us_for_epipen_by_127/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6ehiw7</id>
+		<link href="https://www.reddit.com/r/news/comments/6ehiw7/mylan_may_have_overcharged_us_for_epipen_by_127/"/>
+		<updated>2017-05-31T19:58:14+00:00</updated>
+		<title>Mylan may have overcharged U.S. for EpiPen by $1.27 billion: HHS</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Menster69</name>
+			<uri>https://www.reddit.com/user/Menster69</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Menster69&quot;&gt; /u/Menster69 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;http://www.bbc.com/news/world-us-canada-40115541&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6ej65l/los_angeles_homeless_numbers_jump_23_in_a_year/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6ej65l</id>
+		<link href="https://www.reddit.com/r/news/comments/6ej65l/los_angeles_homeless_numbers_jump_23_in_a_year/"/>
+		<updated>2017-06-01T00:24:15+00:00</updated>
+		<title>Los Angeles homeless numbers jump 23% in a year - BBC News</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Abscess2</name>
+			<uri>https://www.reddit.com/user/Abscess2</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Abscess2&quot;&gt; /u/Abscess2 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;http://inhabitat.com/researchers-find-dangerous-amounts-of-lead-in-fidget-spinners/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6eho1g/researchers_find_dangerous_amounts_of_lead_in/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6eho1g</id>
+		<link href="https://www.reddit.com/r/news/comments/6eho1g/researchers_find_dangerous_amounts_of_lead_in/"/>
+		<updated>2017-05-31T20:19:13+00:00</updated>
+		<title>Researchers find dangerous amounts of lead in fidget spinners</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Apogical</name>
+			<uri>https://www.reddit.com/user/Apogical</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Apogical&quot;&gt; /u/Apogical &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reuters.com/article/us-ohio-opioids-idUSKBN18R2BY&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6eh1pv/ohio_sues_five_drug_companies_over_opioid_crisis/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6eh1pv</id>
+		<link href="https://www.reddit.com/r/news/comments/6eh1pv/ohio_sues_five_drug_companies_over_opioid_crisis/"/>
+		<updated>2017-05-31T18:48:54+00:00</updated>
+		<title>Ohio sues five drug companies over opioid crisis</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/MeineBryon01</name>
+			<uri>https://www.reddit.com/user/MeineBryon01</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MeineBryon01&quot;&gt; /u/MeineBryon01 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/tech-policy/2017/05/amazon-refunding-70m-of-kids-unauthorized-in-app-purchases/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6ehtiw/amazon_refunding_70m_of_kids_unauthorized_inapp/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6ehtiw</id>
+		<link href="https://www.reddit.com/r/news/comments/6ehtiw/amazon_refunding_70m_of_kids_unauthorized_inapp/"/>
+		<updated>2017-05-31T20:42:05+00:00</updated>
+		<title>Amazon refunding $70M of kids' unauthorized in-app purchases: Cash back for parents whose kids ran amok buying &quot;digital goods&quot; in Amazon games</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/discocrisco</name>
+			<uri>https://www.reddit.com/user/discocrisco</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/discocrisco&quot;&gt; /u/discocrisco &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;http://time.com/4800635/uber-driver-killed-illinois-teenager/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6ek1e4/chicago_teenager_accused_of_hacking_uber_driver/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6ek1e4</id>
+		<link href="https://www.reddit.com/r/news/comments/6ek1e4/chicago_teenager_accused_of_hacking_uber_driver/"/>
+		<updated>2017-06-01T03:05:44+00:00</updated>
+		<title>Chicago Teenager Accused of Hacking Uber Driver to Death</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/snowsnothing</name>
+			<uri>https://www.reddit.com/user/snowsnothing</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/snowsnothing&quot;&gt; /u/snowsnothing &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;http://globalnews.ca/news/3493719/bounty-hunters-fugitive-killed/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6eifdi/2_bounty_hunters_fugitive_killed_during_shootout/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6eifdi</id>
+		<link href="https://www.reddit.com/r/news/comments/6eifdi/2_bounty_hunters_fugitive_killed_during_shootout/"/>
+		<updated>2017-05-31T22:16:50+00:00</updated>
+		<title>2 bounty hunters, fugitive killed during shootout at Texas car dealership</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/T-Hampton</name>
+			<uri>https://www.reddit.com/user/T-Hampton</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/T-Hampton&quot;&gt; /u/T-Hampton &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;http://www.cbsnews.com/news/mother-testifies-gifted-girls-were-wives-to-their-alleged-abuser/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6ej6lh/mother_testifies_girls_were_gifted_as_wives_to/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6ej6lh</id>
+		<link href="https://www.reddit.com/r/news/comments/6ej6lh/mother_testifies_girls_were_gifted_as_wives_to/"/>
+		<updated>2017-06-01T00:26:27+00:00</updated>
+		<title>Mother testifies girls were &quot;gifted&quot; as &quot;wives&quot; to their alleged abuser</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Martither</name>
+			<uri>https://www.reddit.com/user/Martither</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Martither&quot;&gt; /u/Martither &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.yahoo.com/news/white-house-unveils-list-ex-lobbyists-granted-ethics-023901882.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6ekhts/white_house_unveils_list_of_exlobbyists_granted/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6ekhts</id>
+		<link href="https://www.reddit.com/r/news/comments/6ekhts/white_house_unveils_list_of_exlobbyists_granted/"/>
+		<updated>2017-06-01T04:37:37+00:00</updated>
+		<title>White House unveils list of ex-lobbyists granted ethics waivers</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/2scoobysnacks</name>
+			<uri>https://www.reddit.com/user/2scoobysnacks</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/2scoobysnacks&quot;&gt; /u/2scoobysnacks &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;http://www.miamiherald.com/news/local/community/broward/article153373524.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6ecwkf/he_didnt_give_police_his_iphone_pass_code_so_he/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6ecwkf</id>
+		<link href="https://www.reddit.com/r/news/comments/6ecwkf/he_didnt_give_police_his_iphone_pass_code_so_he/"/>
+		<updated>2017-05-31T05:23:04+00:00</updated>
+		<title>He didn't give police his iPhone pass code, so he got 180 days in jail</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/nosotros_road_sodium</name>
+			<uri>https://www.reddit.com/user/nosotros_road_sodium</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/nosotros_road_sodium&quot;&gt; /u/nosotros_road_sodium &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;http://www.latimes.com/business/la-fi-malls-closing-20170531-story.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6eke6b/up_to_25_of_us_shopping_malls_may_close_in_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6eke6b</id>
+		<link href="https://www.reddit.com/r/news/comments/6eke6b/up_to_25_of_us_shopping_malls_may_close_in_the/"/>
+		<updated>2017-06-01T04:16:11+00:00</updated>
+		<title>Up to 25% of U.S. shopping malls may close in the next five years, report says</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/jochexum</name>
+			<uri>https://www.reddit.com/user/jochexum</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/jochexum&quot;&gt; /u/jochexum &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.wired.com/2017/05/silk-road-creator-ross-ulbricht-loses-life-sentence-appeal/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6ehwuf/silk_road_creator_ross_ulbricht_loses_his_life/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6ehwuf</id>
+		<link href="https://www.reddit.com/r/news/comments/6ehwuf/silk_road_creator_ross_ulbricht_loses_his_life/"/>
+		<updated>2017-05-31T20:55:27+00:00</updated>
+		<title>Silk Road creator Ross Ulbricht loses his life sentence appeal</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/snowsnothing</name>
+			<uri>https://www.reddit.com/user/snowsnothing</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/snowsnothing&quot;&gt; /u/snowsnothing &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;http://ktla.com/2017/05/31/baby-dies-after-pregnant-woman-immediately-gives-birth-following-head-on-crash-near-valley-glen-suspected-dui-driver-arrested/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6ejzs2/baby_dies_after_pregnant_woman_immediately_gives/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6ejzs2</id>
+		<link href="https://www.reddit.com/r/news/comments/6ejzs2/baby_dies_after_pregnant_woman_immediately_gives/"/>
+		<updated>2017-06-01T02:57:21+00:00</updated>
+		<title>Baby Dies After Pregnant Woman Immediately Gives Birth Following Head-On Crash Near Valley Glen; Suspected DUI Driver Arrested</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/snbt</name>
+			<uri>https://www.reddit.com/user/snbt</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/snbt&quot;&gt; /u/snbt &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/motorcycle-gang-busted-for-hacking-and-stealing-over-150-jeep-wranglers/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6eef95/motorcycle_gang_busted_for_hacking_and_stealing/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6eef95</id>
+		<link href="https://www.reddit.com/r/news/comments/6eef95/motorcycle_gang_busted_for_hacking_and_stealing/"/>
+		<updated>2017-05-31T11:47:45+00:00</updated>
+		<title>Motorcycle Gang Busted for Hacking and Stealing Over 150 Jeep Wranglers</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Bigred2989</name>
+			<uri>https://www.reddit.com/user/Bigred2989</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Bigred2989&quot;&gt; /u/Bigred2989 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;http://www.hollywoodreporter.com/thr-esq/katie-couric-beats-defamation-lawsuit-gun-documentary-1009142&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6ejtf5/katie_couric_beats_defamation_lawsuit_over_gun/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6ejtf5</id>
+		<link href="https://www.reddit.com/r/news/comments/6ejtf5/katie_couric_beats_defamation_lawsuit_over_gun/"/>
+		<updated>2017-06-01T02:23:44+00:00</updated>
+		<title>Katie Couric Beats Defamation Lawsuit Over Gun Documentary</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/vsal</name>
+			<uri>https://www.reddit.com/user/vsal</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/vsal&quot;&gt; /u/vsal &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;http://www.baltimoresun.com/news/maryland/baltimore-city/bs-md-ci-chess-champion-20170531-story.html&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6eeqpz/tested_in_a_barbershop_7thgrader_becomes/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6eeqpz</id>
+		<link href="https://www.reddit.com/r/news/comments/6eeqpz/tested_in_a_barbershop_7thgrader_becomes/"/>
+		<updated>2017-05-31T12:51:25+00:00</updated>
+		<title>Tested in a barbershop, 7th-grader becomes Baltimore's first-ever national chess champion</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Gbcue</name>
+			<uri>https://www.reddit.com/user/Gbcue</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Gbcue&quot;&gt; /u/Gbcue &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;http://nbc4i.com/2017/05/30/ohio-bill-would-allow-gun-owners-to-shoot-in-self-defense-without-retreating/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6efm4s/ohio_bill_would_allow_gun_owners_to_shoot_in/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6efm4s</id>
+		<link href="https://www.reddit.com/r/news/comments/6efm4s/ohio_bill_would_allow_gun_owners_to_shoot_in/"/>
+		<updated>2017-05-31T15:17:15+00:00</updated>
+		<title>Ohio bill would allow gun owners to shoot in self-defense without retreating</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/grepnork</name>
+			<uri>https://www.reddit.com/user/grepnork</uri>
+		</author>
+		<category label="r/news" term="news"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/grepnork&quot;&gt; /u/grepnork &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://arstechnica.com/business/2017/05/exxon-investors-clash-with-executives-vote-in-favor-of-annual-climate-report/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/news/comments/6eheuu/exxon_investors_clash_with_executives_vote_in/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_6eheuu</id>
+		<link href="https://www.reddit.com/r/news/comments/6eheuu/exxon_investors_clash_with_executives_vote_in/"/>
+		<updated>2017-05-31T19:42:21+00:00</updated>
+		<title>Exxon investors clash with executives, vote in favor of annual climate report</title>
+	</entry>
+</feed>
