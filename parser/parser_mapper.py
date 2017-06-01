@@ -1,8 +1,8 @@
 from collections import namedtuple
 from functools import reduce
 import feedparser
+from dateutil import parser as time_parser
 from django.apps import apps
-from django.db.models.fields.related_descriptors import ManyToManyDescriptor
 
 ObjectMapping = namedtuple('RelatedField', ('base_path', 'model', 'fields'))
 FieldMapping = namedtuple('Field', ('name', 'mapping'))
@@ -28,11 +28,17 @@ class ParserMapper:
         """save to db and return saved object"""
         Model = apps.get_model(model_text_id)
 
+        # normalise values and separate to m2m, simple
         simple_fields = {}
         many2many_fields = {}
         for field, value in parsed_values.items():
-            if isinstance(getattr(Model, field), ManyToManyDescriptor):
+            if (Model._meta.get_field(
+                    field).get_internal_type() == 'ManyToManyField'):
                 many2many_fields[field] = value
+            elif (Model._meta.get_field(
+                    field).get_internal_type() == 'DateTimeField'):
+                simple_fields[field] = time_parser.parse(value)
+
             else:
                 simple_fields[field] = value
 

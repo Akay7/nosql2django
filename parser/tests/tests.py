@@ -60,6 +60,7 @@ class TestParser(TestCase):
                         (FieldMapping('nick_name', 'author'),)
                     )
                 ),
+                FieldMapping('updated', 'published')
             )
         )
 

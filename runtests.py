@@ -15,6 +15,8 @@ DEFAULT_SETTINGS = dict(
             "ENGINE": "django.db.backends.sqlite3"
         }
     },
+    TIME_ZONE = 'UTC',
+    USE_TZ = True,
 )
 
 
