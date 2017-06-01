@@ -1,5 +1,5 @@
 from django.core.management.base import BaseCommand
-from django_parser.parser_mapper import ObjectMapping, FieldMapping, ParserMapper
+from nosql2django.parser_mapper import ObjectMapping, FieldMapping, ParserMapper
 
 
 class Command(BaseCommand):
