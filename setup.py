@@ -17,11 +17,11 @@ f.close()
 
 
 setup(
-    name='django-parser',
+    name='nosql2django',
     version='0.1.0',
     author='Egor Poderiagin',
     author_email='egor@crazyrussian.pro',
-    url='https://github.com/Akay7/django_parser',
+    url='https://github.com/Akay7/nosql2django',
     description='Allow convert nosql source to django relational DB structure',
     packages=find_packages(),
     long_description=long_description,
@@ -35,6 +35,7 @@ setup(
     test_suite='runtests.runtests',
     include_package_data=True,
     classifiers=[
+        'Development Status :: 3 - Alpha',
         'Framework :: Django',
         'Intended Audience :: Developers',
         'Intended Audience :: System Administrators',

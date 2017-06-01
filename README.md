@@ -1,4 +1,4 @@
-# Django parser
+# nosql2django
 That project let you convert structure with nested 
 object to linear Relation Data Model for your Django project.
  
