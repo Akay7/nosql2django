@@ -29,7 +29,8 @@ setup(
     zip_safe=False,
     install_requires=[
         'Django>=1.8.0',
-
+        'feedparser>=5.2.1',
+        'python-dateutil>=2.6.0',
     ],
     test_suite='runtests.runtests',
     include_package_data=True,
