@@ -1,4 +1,4 @@
 dist/
-django_parser.egg-info/
+nosql2django.egg-info/
 build/
 *.pyc
