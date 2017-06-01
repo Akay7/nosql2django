@@ -31,14 +31,21 @@ class ParserMapper:
 
     @staticmethod
     def parse_obj(mapping, obj):
-        parsed_values = {}
-        for field in mapping.fields:
-            parsed_values[field.name] = deep_get(obj, field.mapping)
+        def _parse_single_obj(mapping, obj):
+            parsed_values = {}
+            for field in mapping.fields:
+                parsed_values[field.name] = deep_get(obj, field.mapping)
 
-        ParserMapper.save_to_db(mapping.model, parsed_values)
+            ParserMapper.save_to_db(mapping.model, parsed_values)
+        if isinstance(obj, list):
+            return [_parse_single_obj(mapping, i) for i in obj]
+        return _parse_single_obj(mapping, obj)
 
     def put_to_models(self):
         feed = feedparser.parse(self.source)
 
         for e in feed['entries']:
-            ParserMapper.parse_obj(self.mapping, e)
+            ParserMapper.parse_obj(
+                self.mapping,
+                e[self.mapping.base_path] if self.mapping.base_path else e
+            )

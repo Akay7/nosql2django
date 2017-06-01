@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"  >
+  <channel>
+    <title>Хабрахабр / Все / Тематические публикации</title>
+    <link>https://habrahabr.ru/posts/collective/all/</link>
+    <description><![CDATA[Все публикации из тематических хабов на Хабрахабре]]></description>
+    <language>ru</language>
+    <managingEditor>editor@habrahabr.ru</managingEditor>
+    <generator>habrahabr.ru</generator>
+    <pubDate>Thu, 01 Jun 2017 05:19:55 GMT</pubDate>
+    <lastBuildDate></lastBuildDate>
+      <image>
+        <link>https://habrahabr.ru/</link>
+        <url>https://habrahabr.ru/images/logo.png</url>
+        <title>Хабрахабр</title>
+      </image>
+
+              <item>
+      <title><![CDATA[[recovery mode] Психология тестирования (конечно же, не исчерпывающая). Личный перевод из книги «Искусство тестирования» Г. Майерса]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/329966/</guid>
+      <link>https://habrahabr.ru/post/329966/</link>
+      <description><![CDATA[Важная причина плохого тестирования программных продуктов заключается в том, что большинство специалистов отталкивается от ложного определения этого термина. Они могут сказать:<br/>
+ — тестирование – это процесс для демонстрации того, что в программе нет ошибок;<br/>
+ — цель тестирования в том, чтобы показать, что программа выполняет ожидаемые от нее действия корректным образом;<br/>
+ — тестирование – это процесс, направленный на создание уверенности, что программа делает то, что должна.<br/>
+Эти определения неверны. <a href="https://habrahabr.ru/post/329966/#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Thu, 01 Jun 2017 05:18:57 GMT</pubDate>
+      <dc:creator>RockMachine</dc:creator>
+      <category><![CDATA[Тестирование IT-систем]]></category>
+      <category><![CDATA[тестирование]]></category><category><![CDATA[психология]]></category><category><![CDATA[терминология]]></category><category><![CDATA[дефиниция]]></category><category><![CDATA[метафизика]]></category><category><![CDATA[трансценденция]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод - recovery mode ] Identity-as-a-Service (IDaaS). Что это?]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/329964/</guid>
+      <link>https://habrahabr.ru/post/329964/</link>
+      <description><![CDATA[<img src="https://habrastorage.org/web/8e7/a0d/52c/8e7a0d52c5984797a1fe765f3ab36b9e.jpg"/><br/>
+<br/>
+Мы уже знакомы с многими терминами в мире облачных технологий, таких как «Платформа как сервис» (PaaS), «Программное обеспечение как сервис» (SaaS ), «Инфраструктура как сервис» (IaaS). Последним, присоединившимся к этому списку, стало словосочетание «Идентификация как сервис» (IDaaS).<br/>
+ <a href="https://habrahabr.ru/post/329964/#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Thu, 01 Jun 2017 03:59:57 GMT</pubDate>
+      <dc:creator>mclouds</dc:creator>
+      <category><![CDATA[Облачные вычисления]]></category><category><![CDATA[Блог компании mClouds.ru]]></category>
+      <category>cloud computing</category><category>idaas</category>
+    </item>
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Доклад Мари Микер с Code Conference: главное]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/329960/</guid>
+      <link>https://habrahabr.ru/post/329960/</link>
+      <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/post_images/1dd/e23/1ca/1dde231ca9fa42b65f5484e5e834ba9e.jpg" alt="image"/><br/>
+<i>Источник фото: <a href="https://habrastorage.org/getpro/habr/post_images/1dd/e23/1ca/1dde231ca9fa42b65f5484e5e834ba9e.jpg">Recode.net</a></i><br/>
+<br/>
+<b>Партнер венчурной компании <a href="http://www.kpcb.com/">Kleiner Perkins Caufield & Byers </a>Мари Микер поделилась своим супер-отчетом на <a href="https://events.recode.net/events/code-conference-2017/">Code Conference</a> в Калифорнии.<br/>
+</b><br/>
+Сайт <a href="https://www.recode.net/">Recode.net</a> (организаторы конференции) подготовил <a href="https://www.recode.net/2017/5/31/15693686/mary-meeker-kleiner-perkins-kpcb-slides-internet-trends-code-2017">быстрый обзор</a> одного из самых ожидаемых докладов Силиконовой Долины. Отчет этого года включил 355 слайдов и тонны информации, включая новую секцию о здравоохранении, которую Мари, впрочем, не презентовала вживую.<br/>
+ <a href="https://habrahabr.ru/post/329960/#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 31 May 2017 20:58:42 GMT</pubDate>
+      <dc:creator>lera_alfimova</dc:creator>
+      <category><![CDATA[Конференции]]></category><category><![CDATA[Интернет-маркетинг]]></category><category><![CDATA[Веб-аналитика]]></category><category><![CDATA[Блог компании Appodeal]]></category>
+      <category>конференция</category><category>аналитика</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Решение проблем организации бизнес-логики в PHP или как пойти своим путем]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/282253/</guid>
+      <link>https://habrahabr.ru/post/282253/</link>
+      <description><![CDATA[<img src="https://habrastorage.org/files/d16/498/458/d1649845852143279cc7dcb2e48eb7ef.jpg" height="551" width="478" alt="image" align="right"/> Привет, Хабр! Не первый раз я пытаюсь написать эту статью, но давно уже есть желание поделиться опытом и люди просят.<br/>
+<br/>
+На Хабре много статей о различных технологиях, языках, api и т.д., но часто программисты в пылу разработки забывают для чего все это, ниже я постараюсь описать, как не забыть о самом главном при разработке.<br/>
+ <br/>
+Статья будет о том как мы организовали работу с бизнес логикой в PHP, совмещающую разные подходы.<br/>
+<br/>
+Тут будет изложено как уйти от проблем PHP фреймворков, связанных с размазыванием предметной логики по слою контроллеров.<br/>
+<br/>
+Не буду гарантировать что изложенные решения это какая-то серебряная пуля, все нижеследующее всего лишь один из вариантов подхода к решению общих проблем. В нем есть и плюсы и минусы и со своей основной задачей этот подход справляется.<br/>
+ <a href="https://habrahabr.ru/post/282253/#habracut">За подробностями прошу под кат.</a>]]></description>
+      
+      <pubDate>Wed, 31 May 2017 20:51:53 GMT</pubDate>
+      <dc:creator>xanm</dc:creator>
+      <category><![CDATA[Анализ и проектирование систем]]></category><category><![CDATA[PHP]]></category>
+      <category><![CDATA[php]]></category><category><![CDATA[ddd]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[День из жизни технической поддержки]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/329950/</guid>
+      <link>https://habrahabr.ru/post/329950/</link>
+      <description><![CDATA[Хорошо ли работать в техподдержке? Ну это зависит от того, что нужно поддерживать! Сегодня мы расскажем о том, какие задачи приходится решать саппортерам в Virtuozzo, а они поделятся своими секретами – почему пришли работать именно на эти должности.<br/>
+<br/>
+<div style="text-align:center;"><img src="https://habrastorage.org/getpro/habr/post_images/66b/0f5/cc9/66b0f5cc9d8646f4ce078014a151abb4.gif" alt="image" /></div> <a href="https://habrahabr.ru/post/329950/#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 31 May 2017 19:03:27 GMT</pubDate>
+      <dc:creator>Gummio_7</dc:creator>
+      <category><![CDATA[Help Desk Software]]></category><category><![CDATA[Блог компании Virtuozzo]]></category>
+      <category><![CDATA[suport]]></category><category><![CDATA[helpdesk]]></category><category><![CDATA[работа]]></category><category><![CDATA[техподдержка]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[[recovery mode] Нерекурсивный алгоритм генерации всех разбиений целого числа]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/329948/</guid>
+      <link>https://habrahabr.ru/post/329948/</link>
+      <description><![CDATA[Привет, Хабр! Вдруг снова захотелось написать сюда! Так как было время на выходных, я снова решил поиграться с алгоритмизацией и написал вот эту статейку. Хотел даже отправить в какой-нибудь рецензируемый журнал, но оценить тривиальность/нетривиальность данного материала я не в состоянии, так как программирование всего лишь мое хобби и то эпизодическое, поэтому, как обычно, заранее прошу прощения, если все окажется слишком простым и до боли знакомым. <br/>
+<br/>
+<i>Спасибо администрации Хабра за отзывчивость и молниеносную оперативность при восстановлении аккаунта!</i><br/>
+<br/>
+<b>Итак, плоды усилий долгих...</b><br/>
+ <a href="https://habrahabr.ru/post/329948/#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 31 May 2017 18:35:04 GMT</pubDate>
+      <dc:creator>dcc0</dc:creator>
+      <category><![CDATA[Алгоритмы]]></category>
+      <category><![CDATA[генерация разбиений числа]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Странности Generic типов Java]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/329550/</guid>
+      <link>https://habrahabr.ru/post/329550/</link>
+      <description><![CDATA[<p>Я множество раз слышал о том, что дизайн Generic типов в Java является неудачным. По большей части претензии сводятся к отсутствию поддержки примитивных типов (которую планируют добавить) и к стиранию типов, а конкретнее — невозможности получить фактический тип параметра в рантайме. Лично я не считаю стирание типов проблемой, как и дизайн Generic-ов плохим. Но есть моменты, которые меня порядком раздражают, но при этом не так часто упоминаются.</p><br/>
+<h4 id="1">1</h4><br/>
+<p>Например, мы знаем, что метод <code>Class#getAnnotation</code> параметризован и имеет следующую сигнатуру: <code>public &lt;A extends Annotation&gt; A getAnnotation(Class&lt;A&gt; annotationClass)</code>. Значит, можно писать вот такой код:</p><br/>
+<pre><code class="java">Deprecated d = Object.class.getAnnotation(Deprecated.class);</code></pre><br/>
+<p>Тут я решаю вынести <code>Object.class</code> в отдельную переменную и код перестаёт компилироваться:</p><br/>
+<pre><code class="java">Class clazz = Object.class;
+// incompatible types:
+// java.lang.annotation.Annotation cannot be converted to java.lang.Deprecated
+Deprecated d = clazz.getAnnotation(Deprecated.class);</code></pre><br/>
+<p>Где я ошибся?</p> <a href="https://habrahabr.ru/post/329550/#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 31 May 2017 18:34:30 GMT</pubDate>
+      <dc:creator>ibessonov</dc:creator>
+      <category><![CDATA[Программирование]]></category><category><![CDATA[Java]]></category>
+      <category><![CDATA[java]]></category><category><![CDATA[generic]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Обзор изменений в новом мажорном релизе Node 8]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/329942/</guid>
+      <link>https://habrahabr.ru/post/329942/</link>
+      <description><![CDATA[<div style="text-align:center;"><img src="https://habrastorage.org/web/4a0/d6d/ec3/4a0d6dec34844defbe89acf6166a3dad.png" /></div><br/>
+<p>30 мая 2017 года в 23:00 по московскому времени вышел новый долгожданный мажорный релиз <a href="https://nodejs.org/en/">Node.js 8.0.0</a>. Именно эта линейка версий за номером 8 в октябре 2017 перейдет в Long Term Support — цикл длительной поддержки. Предлагаю вашему вниманию небольшой обзор того огромного количества изменений и дополнений, вошедших в этот релиз.</p><br/>
+<ul>
+<li>npm 5 (lock-файл!)</li>
+<li>V8 5.8</li>
+<li>Node.js API (N-API)</li>
+<li>async_hooks</li>
+<li>WHATWG URL парсер</li>
+<li>повышение безопасности буфера</li>
+<li>упрощенная промисификация</li>
+<li>статичные коды ошибок</li>
+<li>и многое другое!</li>
+</ul> <a href="https://habrahabr.ru/post/329942/#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 31 May 2017 17:37:29 GMT</pubDate>
+      <dc:creator>Checkmatez</dc:creator>
+      <category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Высокая производительность]]></category><category><![CDATA[Node.JS]]></category><category><![CDATA[JavaScript]]></category>
+      <category><![CDATA[node.js]]></category><category><![CDATA[javascript]]></category><category><![CDATA[V8]]></category><category><![CDATA[npm]]></category><category><![CDATA[server-side]]></category><category><![CDATA[release]]></category><category><![CDATA[packet manager]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[ТОП 100 англоязычных сайтов об IT]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/329936/</guid>
+      <link>https://habrahabr.ru/post/329936/</link>
+      <description><![CDATA[<a href="https://habrahabr.ru/company/cloud4y/blog/329936/"><img src="https://habrastorage.org/web/e51/97f/f32/e5197ff3206e4e058504bf499e810361.png"/></a><br/>
+<br/>
+<b>Привет, Хабр!</b><br/>
+<br/>
+Чтение на английском может быть полезно как в изучении иностранного языка, так и в пополнении профессиональных знаний. Мы задались вопросом, какие новостные порталы, блоги и прочие Интернет-ресурсы на английском языке имеют четкую IT-направленность и наиболее интересны разработчикам, админам, тестировщикам, веб-дизайнерам и людям других технических специальностей в России? <br/>
+<br/>
+Чтобы создать ТОП полезных англоязычных IT-ресурсов, мы решили воспользоваться статистикой Хабрахабра. Наряду с авторскими публикациями, здесь публикуются и переводы интересных материалов. Такие посты отмечены тегом «Перевод» и содержат ссылку на оригинал.<br/>
+<br/>
+Всего за последние полгода на Хабре было около 1000 переводных статей. Мы посчитали для каждого источника переводов средний рейтинг публикации, среднее число просмотров и количество добавлений в Избранное. Затем были удалены сайты со средним рейтингом публикаций менее 16 и числом просмотров менее 4000. Полученные сайты мы отсортировали по числу переводов на Хабре из этого источника, так как, возможно, это характеризует ресурс как часто обновляемый и «объёмный».<br/>
+<br/>
+Собрав и проанализировав таким образом данные о публикациях, мы получили наш <b>ТОП100</b> компьютерных сайтов на английском, который мы надеемся будет полезен и вам. <a href="https://habrahabr.ru/post/329936/#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 31 May 2017 16:02:00 GMT</pubDate>
+      <dc:creator>Cloud4Y</dc:creator>
+      <category><![CDATA[Читальный зал]]></category><category><![CDATA[Хабрахабр API]]></category><category><![CDATA[Учебный процесс в IT]]></category><category><![CDATA[Исследования и прогнозы в IT]]></category><category><![CDATA[Блог компании Cloud4Y]]></category>
+      <category><![CDATA[сми]]></category><category><![CDATA[английский язык]]></category><category><![CDATA[english learning]]></category><category><![CDATA[english language]]></category><category><![CDATA[перевод]]></category><category><![CDATA[Хабрахабр]]></category><category><![CDATA[it за рубежом]]></category><category><![CDATA[информационные технологии]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Деплоим мобильный софт с помощью devops-конвейера Microsoft]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/329908/</guid>
+      <link>https://habrahabr.ru/post/329908/</link>
+      <description><![CDATA[<p>В <a href="https://habrahabr.ru/company/microsoft/blog/325184/">прошлой статье</a> мы рассмотрели автоматизацию сборки мобильных приложений с помощью Bitrise, разобрались со сборкой Android- (и iOS-) приложения, подключили Xamarin Test Cloud, провели автоматическое UI-тестирование и внедрили HockeyApp для получения обратной связи. Сегодня мы продолжим погружение в мир инструментов Mobile DevOps, которые не просто ускоряют, но еще и заметно упрощают разработку мобильных приложений. На этот раз мы рассмотрим интегрированное решение Visual Studio Mobile Center.</p><br/>
+<p><img src="https://habrastorage.org/web/1c7/964/c1a/1c7964c1abfc4f0c961ff112cf0d0127.jpg"/></p> <a href="https://habrahabr.ru/post/329908/#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 31 May 2017 14:57:08 GMT</pubDate>
+      <dc:creator>Schvepsss</dc:creator>
+      <category><![CDATA[Разработка под iOS]]></category><category><![CDATA[Разработка под Android]]></category><category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Блог компании Microsoft]]></category>
+      <category><![CDATA[Microsoft]]></category><category><![CDATA[DevOps]]></category><category><![CDATA[мобильная разработка]]></category><category><![CDATA[Bitrise]]></category><category><![CDATA[Xamarin Test Cloud]]></category><category><![CDATA[HockeyApp]]></category><category><![CDATA[журнал Хакер]]></category><category><![CDATA[xamarincolumn]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[[recovery mode] Hibernate+jsp при поддержке сервлетов]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/329924/</guid>
+      <link>https://habrahabr.ru/post/329924/</link>
+      <description><![CDATA[Всем привет! В этой статье я расскажу о том, как связать JSP с Hibernate при помощи сервлета. Я надеюсь, что вы умеете работать с Hibernate, если же нет, то настоятельно рекомендую прочитать эту <a href="https://habrahabr.ru/post/320542/">статью</a>. Также я надеюсь, что вы знакомы с сервлетами и хоть раз их успешно запускали. <br/>
+<br/>
+Для того, чтобы у вас была такая же база данных в MySQL, вставьте туда следующий код:<br/>
+<br/>
+<pre><code>CREATE SCHEMA `hero` ;
+
+CREATE TABLE `hero`.`heroes`
+(
+`idhero` INT NOT NULL AUTO_INCREMENT,
+`name` VARCHAR(45) NOT NULL,
+PRIMARY KEY (`idhero`));
+</code></pre><br/>
+Создаём maven проект и вставляем следующие зависимости и не только:<br/>
+ <a href="https://habrahabr.ru/post/329924/#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 31 May 2017 13:48:03 GMT</pubDate>
+      <dc:creator>RomeoLord</dc:creator>
+      <category><![CDATA[Java]]></category>
+      <category><![CDATA[java]]></category><category><![CDATA[hibernate]]></category><category><![CDATA[servlet]]></category><category><![CDATA[tomcat]]></category><category><![CDATA[jsp]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+    <item>
+      <title><![CDATA[[Из песочницы] Многоступенчатая организация хранения резервных копий для самых маленьких]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/329920/</guid>
+      <link>https://habrahabr.ru/post/329920/</link>
+      <description><![CDATA[Совсем недавно по планете прокатились волны WannaCry и его клонов. А сама проблема шифровальщиков стоит перед системными администраторами уже более 10 лет. Рано или поздно – но все внедренные и реализованные меры по защите от шифровальщиков не помогают и все-таки находится пользователь, который открывает письмо, вложение и получает полный «букет». Также много «приятных и увлекательных» часов получает системный администратор.<br/>
+<br/>
+И тут то все четко начинают понимать, что нужны резервные копии (много, разных, в разных местах). Т.е. правило 3-2-1, придуманное и описанное Peter-ом Krogh-ом, весьма желательно выполнять. Данная статья – пример, который помогает сделать реальным выполнение данного правила на «коленке» — без покупки дорогостоящего оборудования (в условиях жесткой экономии).<br/>
+ <a href="https://habrahabr.ru/post/329920/#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 31 May 2017 13:26:57 GMT</pubDate>
+      <dc:creator>Dorlas</dc:creator>
+      <category><![CDATA[Резервное копирование]]></category><category><![CDATA[PowerShell]]></category>
+      <category>powershell</category><category>backup</category>
+    </item>
+
+
+
+
+
+      <item>
+      <title><![CDATA[Анализ изменений в игре]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/329910/</guid>
+      <link>https://habrahabr.ru/post/329910/</link>
+      <description><![CDATA[Одна из основных характеристик успешной мобильной игры — ее постоянное оперирование: это и переработка существующего контента, и добавление нового. Но есть и обратная сторона медали – нужно постоянно оценивать риски изменений в очередной версии приложения. Необходимо заранее представлять, как изменения в апдейте повлияют на показатели проекта. Иначе можно оказаться в ситуации, когда во время планового обновления внезапно ломается баланс и нужно срочно поднимать всю команду разработки для выпуска хотфикса.<br/>
+<br/>
+Еще до сборки нового продакшен-билда мы должны понимать, на какие показатели повлияет нововведение. Ведь в новых версиях игры может быть множество изменений баланса. Без предварительного планирования неизбежно возникнет один из таких вопросов: «Что же повысило ARPU в Канаде — локальные мероприятия в честь национального праздника или общее повышение сложности группы каких-то уровней; а может, просто звезды так совпали?». Безусловно, и после выхода апдейта выполняется всесторонний анализ результатов, но понимать характер изменений нужно заранее.<br/>
+<br/>
+<a href="https://habrahabr.ru/company/playrix/blog/329910/"><div style="text-align:center;"><img src="https://habrastorage.org/web/811/a14/437/811a14437aec4845a6c0f8b2f607a9b2.jpg" /></div></a> <a href="https://habrahabr.ru/post/329910/#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 31 May 2017 13:21:18 GMT</pubDate>
+      <dc:creator>9e9names</dc:creator>
+      <category><![CDATA[Тестирование игр]]></category><category><![CDATA[Разработка игр]]></category><category><![CDATA[Анализ и проектирование систем]]></category><category><![CDATA[Блог компании Playrix]]></category>
+      <category><![CDATA[Playrix]]></category><category><![CDATA[игры]]></category><category><![CDATA[тестирование]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод - recovery mode ] Безопасность в веб-разработке: чек-лист]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/329836/</guid>
+      <link>https://habrahabr.ru/post/329836/</link>
+      <description><![CDATA[<i>Светлана Шаповалова, редактор «<a href="http://netolo.gy/dsA">Нетологии</a>», адаптировала статью Michael O'Brien, в которой он составил чек-лист для веб-разработчиков, предпочитающих разрабатывать не только удобные, но и безопасные приложения.</i><br/>
+<br/>
+Разработка безопасных и надежных облачных веб-приложений — очень, очень сложное дело. Если вы думаете иначе, вы либо не от мира сего, либо жизнь вас еще не проучила.<br/>
+<br/>
+Если вы уже заразились идеей «минимально жизнеспособного продукта» (англ. <a href="https://en.wikipedia.org/wiki/Minimum_viable_product">MVP</a> — minimum viable product, прим. перев.) и считаете, что за месяц можно создать одновременно полезный и безопасный продукт — подумайте дважды, прежде чем выпускать его. Просмотрев чек-лист, вы поймете, что оставляете немало уязвимостей. <br/>
+<br/>
+<img src="https://habrastorage.org/web/62c/13a/d76/62c13ad7605a4467ab06f258db63b2dc.jpeg"/><br/>
+ <a href="https://habrahabr.ru/post/329836/#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 31 May 2017 13:10:36 GMT</pubDate>
+      <dc:creator>netologyru</dc:creator>
+      <category><![CDATA[Тестирование веб-сервисов]]></category><category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Блог компании Нетология]]></category>
+      <category>веб-разработка</category><category>безопасность</category><category>web developement</category><category>перевод</category><category>нетология</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Как я делаю бекапы. СУБД FireBird]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/329914/</guid>
+      <link>https://habrahabr.ru/post/329914/</link>
+      <description><![CDATA[<div style="text-align:center;"><img src="https://habrastorage.org/getpro/habr/post_images/6c7/2be/6b9/6c72be6b9ba7d9a68c34718248ac1ee6.png" alt="image" /></div><br/>
+Беда пришла откуда не ждали… У клиента завис процесс “Касса”, так что не смог снять процесс через Диспетчер задач. Рабочее место “Касса” — одновременно сервер всей системы.<br/>
+ <br/>
+Клиент принял решение ресетнуть через кнопку. <br/>
+ <br/>
+В итоге умерла DB. FireBird 2.5<br/>
+  <a href="https://habrahabr.ru/post/329914/#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 31 May 2017 13:08:10 GMT</pubDate>
+      <dc:creator>instigator21</dc:creator>
+      <category><![CDATA[Хранение данных]]></category><category><![CDATA[Резервное копирование]]></category><category><![CDATA[Администрирование баз данных]]></category>
+      <category><![CDATA[firebird]]></category><category><![CDATA[delphi]]></category><category><![CDATA[СУБД]]></category><category><![CDATA[backup]]></category><category><![CDATA[windows]]></category><category><![CDATA[inno setup]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] CSS в JavaScript: будущее компонентных стилей]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/329710/</guid>
+      <link>https://habrahabr.ru/post/329710/</link>
+      <description><![CDATA[<p><img src="https://habrastorage.org/web/cc2/865/3ae/cc28653aedc44821b5770aec1453331a.jpg"/></p><br/>
+<p>С помощью встроенных стилей можно получить все программные возможности JavaScript, что дает нам преимущества в виде предварительного процессора CSS (переменные, примеси и функции), а также помогает решить множество проблем, возникающих в CSS, таких как конфликт пространства имен и применения стилей.</p><br/>
+<p>Чтобы получить больше информации о проблемах CSS, решаемых в JavaScript, вы можете посмотреть презентацию «React CSS в JS» (<a href="https://speakerdeck.com/vjeux/react-css-in-js">React CSS in JS</a>), а для того чтобы изучить улучшение производительности с помощью Aphrodite, прочитайте статью <a href="http://engineering.khanacademy.org/posts/aphrodite-inline-css.htm">Inline CSS at Khan Academy: Aphrodite</a>. Если же вы хотите узнать больше о лучших практиках CSS в JavaScript, ознакомьтесь с руководством Airbnb (<a href="https://github.com/airbnb/javascript/tree/master/css-in-javascript">Airbnb’s styleguide</a>).</p><br/>
+<p>Здесь речь пойдет об использовании встроенных стилей JavaScript для создания компонентов, позволяющих решить основные проблемы дизайна, о которых я рассказывал ранее в статье «Прежде чем осваивать дизайн, необходимо ознакомиться с основами» (<a href="https://medium.freecodecamp.com/before-you-can-master-design-you-must-first-master-the-fundamentals-1981a2af1fda">Before you can master design, you must first master the fundamentals</a>).</p> <a href="https://habrahabr.ru/post/329710/#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 31 May 2017 13:05:17 GMT</pubDate>
+      <dc:creator>AloneCoder</dc:creator>
+      <category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[ReactJS]]></category><category><![CDATA[JavaScript]]></category><category><![CDATA[CSS]]></category><category><![CDATA[Блог компании Mail.Ru Group]]></category>
+      <category>css</category><category>js</category><category>react</category><category>никто не читает теги</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[PHDays VII: хроники «Противостояния»]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/329890/</guid>
+      <link>https://habrahabr.ru/post/329890/</link>
+      <description><![CDATA[В этом году перед «Противостоянием» мы в очередной раз собрали сборную «солянку» частично из сотрудников Solar Security, частично из неравнодушных друзей и SOCостроителей России. В статье попробуем описать весь процесс участия в «Противостоянии» — какие были «пасхалки» от организаторов, какие шли атаки, как мы защищались, какие инструменты отработали и т.д.<br/>
+<br/>
+<img src="https://habrastorage.org/web/ce3/548/b1b/ce3548b1b5fb4571970bfea60eb6520f.jpg"/><br/>
+ <a href="https://habrahabr.ru/post/329890/#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 31 May 2017 12:41:51 GMT</pubDate>
+      <dc:creator>SolarSecurity</dc:creator>
+      <category><![CDATA[Информационная безопасность]]></category><category><![CDATA[SaaS / S+S]]></category><category><![CDATA[Блог компании Solar Security]]></category>
+      <category><![CDATA[информационная безопасность]]></category><category><![CDATA[soc]]></category><category><![CDATA[phdays vii]]></category><category><![CDATA[кибербезопасность]]></category><category><![CDATA[киберугрозы]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Must see: видеозаписи митапа MoscowJS 37]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/329898/</guid>
+      <link>https://habrahabr.ru/post/329898/</link>
+      <description><![CDATA[<a href="https://habrahabr.ru/company/avito/blog/329898/"><img src="https://habrastorage.org/web/655/992/743/655992743b8f469984e700f91fafed7b.jpg" alt="image"/></a><br/>
+<br/>
+В четверг, 25 мая, в офисе Avito прошла очередная встреча сообщества фронтенд-разработчиков MoscowJS. Обсуждали отладку анимации, создание WebGL визуализации, сборку webpack’ом и код-ревью. Сегодня публикуем видеозаписи докладов — профессионалам будет интересно. Приятного просмотра!<br/>
+ <a href="https://habrahabr.ru/post/329898/#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 31 May 2017 12:38:46 GMT</pubDate>
+      <dc:creator>Oldtuna</dc:creator>
+      <category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[JavaScript]]></category><category><![CDATA[Блог компании Avito]]></category>
+      <category><![CDATA[moscowjs]]></category><category><![CDATA[javascript]]></category><category><![CDATA[webgl]]></category><category><![CDATA[webpack]]></category><category><![CDATA[ревью кода]]></category><category><![CDATA[3d-моделирование]]></category><category><![CDATA[анимация]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+    <item>
+      <title><![CDATA[[Из песочницы] I want to break free. Чему и как учиться, чтобы сбежать от 1С]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/329906/</guid>
+      <link>https://habrahabr.ru/post/329906/</link>
+      <description><![CDATA[<blockquote><a href="https://www.youtube.com/watch?v=f4Mc-NYPHaQ">“I want to break free. I want ro breeeeeaaaak freeeeeee…”</a><br/>
+Фреди Меркури.</blockquote><p>Это история о том, как адинеснег, недопрограммист недоязыка (по мнению настоящих мужчин) решил вступить в клуб этих самых настоящих мужчин. </p> <a href="https://habrahabr.ru/post/329906/#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 31 May 2017 12:35:26 GMT</pubDate>
+      <dc:creator>ildarchegg</dc:creator>
+      <category><![CDATA[Учебный процесс в IT]]></category>
+      <category>1с</category><category>учеба онлайн</category><category>какой язык программирования</category>
+    </item>
+
+
+
+
+
+      <item>
+      <title><![CDATA[Роутеры, векторы атак и другие приключения Шурика]]></title>
+      <guid isPermaLink="true">https://habrahabr.ru/post/329902/</guid>
+      <link>https://habrahabr.ru/post/329902/</link>
+      <description><![CDATA[<div style="text-align:center;"><img width="400" height="400"  src="https://habrastorage.org/web/0a6/6cc/81e/0a66cc81ef2d4fd7810b180d3c32302e.jpg"/></div><br/>
+Не так давно всего за один месяц свет увидели около 10 уязвимостей, связанных с получением root shell или админских учетных записей на домашних сетевых устройствах. Wi-Fi и 3G-роутеры с админскими учетками вокруг нас. Заплатив 50 $ за платный аккаунт на <a href="https://www.shodan.io/">shodan.io</a>, любой желающий получает доступ к десяткам миллионов IoT-устройств. В их числе роутеры, веб-камеры и прочие гаджеты. С другой стороны, разработчики и поставщики сетевых устройств не придают значения таким понятиям, как «тестирование» и «безопасность». Многие серьезные уязвимости остаются без патчей, а если патчи все-таки выходят, то пользователи не торопятся их применять. Что в результате? Легионы устройств ждут своего часа, чтобы быть взломанными и стать ботами для DDOS-атак.<br/>
+ <a href="https://habrahabr.ru/post/329902/#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 31 May 2017 12:15:59 GMT</pubDate>
+      <dc:creator>ajaxtpm</dc:creator>
+      <category><![CDATA[Разработка для интернета вещей]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Блог компании Positive Technologies]]></category>
+      <category><![CDATA[routers]]></category><category><![CDATA[security]]></category><category><![CDATA[ddos]]></category><category><![CDATA[mirai]]></category><category><![CDATA[vulnerability]]></category><category><![CDATA[bruteforce]]></category><category><![CDATA[positive technologies]]></category>
+    </item>
+
+
+
+
+
+
+
+
+
+
+
+  </channel>
+</rss>
