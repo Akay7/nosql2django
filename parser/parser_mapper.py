@@ -2,6 +2,7 @@ from collections import namedtuple
 from functools import reduce
 import feedparser
 from django.apps import apps
+from django.db.models.fields.related_descriptors import ManyToManyDescriptor
 
 ObjectMapping = namedtuple('RelatedField', ('base_path', 'model', 'fields'))
 FieldMapping = namedtuple('Field', ('name', 'mapping'))
@@ -26,7 +27,23 @@ class ParserMapper:
     def save_to_db(model_text_id, parsed_values):
         """save to db and return saved object"""
         Model = apps.get_model(model_text_id)
-        model, created = Model.objects.get_or_create(**parsed_values)
+
+        simple_fields = {}
+        many2many_fields = {}
+        for field, value in parsed_values.items():
+            if isinstance(getattr(Model, field), ManyToManyDescriptor):
+                many2many_fields[field] = value
+            else:
+                simple_fields[field] = value
+
+        # ToDo: add unique identify parameter to field
+        # ToDo: allow unique identify m2m field
+        model, created = Model.objects.get_or_create(**simple_fields)
+
+        for field, value in many2many_fields.items():
+            setattr(model, field, value)
+        model.save()
+
         return model
 
     @staticmethod
@@ -34,9 +51,16 @@ class ParserMapper:
         def _parse_single_obj(mapping, obj):
             parsed_values = {}
             for field in mapping.fields:
-                parsed_values[field.name] = deep_get(obj, field.mapping)
+                if isinstance(field.mapping, ObjectMapping):
+                    value = ParserMapper.parse_obj(
+                        field.mapping, obj[field.mapping.base_path] if field.mapping.base_path else obj
+                    )
+                else:
+                    value = deep_get(obj, field.mapping)
+                parsed_values[field.name] = value
 
-            ParserMapper.save_to_db(mapping.model, parsed_values)
+            return ParserMapper.save_to_db(mapping.model, parsed_values)
+
         if isinstance(obj, list):
             return [_parse_single_obj(mapping, i) for i in obj]
         return _parse_single_obj(mapping, obj)
