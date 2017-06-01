@@ -3,7 +3,7 @@ import sys
 import django
 from django.conf import settings
 
-test_dir = os.path.join(os.path.dirname(__file__), 'parser')
+test_dir = os.path.join(os.path.dirname(__file__), 'django_parser')
 sys.path.insert(0, test_dir)
 
 DEFAULT_SETTINGS = dict(
