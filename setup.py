@@ -25,7 +25,7 @@ setup(
     description='Allow convert nosql source to django relational DB structure',
     packages=find_packages(),
     long_description=long_description,
-    keywords='django irc feeds parser sql nosql-to-sql',
+    keywords='django rss atom feeds parser sql nosql-to-sql',
     zip_safe=False,
     install_requires=[
         'Django>=1.8.0',
