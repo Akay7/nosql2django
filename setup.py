@@ -18,7 +18,7 @@ f.close()
 
 setup(
     name='nosql2django',
-    version='0.1.0',
+    version='0.1.1',
     author='Egor Poderiagin',
     author_email='egor@crazyrussian.pro',
     url='https://github.com/Akay7/nosql2django',
